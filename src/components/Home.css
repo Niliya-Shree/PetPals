@@ -1,0 +1,27 @@
+/* Home.css */
+.search-bar-container {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .carousel-container {
+    position: relative;
+  }
+  .animals-section {
+    padding: 2rem 0;
+  }
+  
+  .animals-section h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .text-decoration-none {
+    text-decoration: none !important;
+    color: inherit;
+  }
+  
